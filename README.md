@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jason
 - 👀 I’m interested in drugs
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on any project
+- 💞️ I’m looking to collaborate on any java projects
 - 📫 How to reach me... chant my name 3 times and I shall appear 
 - 😄 Pronouns: Autobots
 - ⚡ Fun fact: I gym
