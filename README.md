@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **sharpening my skills**
 
-- 🌱 I’m currently learning **ML and frontend development**
+- 🌱 I’m currently learning **Java, HTML, CSS, and ML**
 
 - 📫 How to reach me **jasonnghiilwamo@gmail.com**
 
