@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">Software developer in training, from <strong>where de huzz at</strong>. Code-driven (at times). Learning, building, and improving my skills.</p>
+<p align="left">Software developer in training, from <strong>where de huzz at</strong>. Code-driven. Learning, building, and improving my skills.</p>
 
 ###
 
