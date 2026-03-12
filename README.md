@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Software developer in training, from where de huzz at. Code-driven, occasionally competent. Learning, building, and improving relentlessly.</p>
+<p align="left">Software developer in training, from <strong>where de huzz at </strong>. Code-driven, occasionally competent. Learning, building, and improving relentlessly.</p>
 
 ###
 
