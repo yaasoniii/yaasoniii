@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Software developer in training, from where de huzz at. Code-driven (at times). Learning, building, improving.</p>
+<p align="left">Software developer in training, from <strong/>where de huzz at<strong/>. Code-driven (at times). Learning, building, improving.</p>
 
 ###
 
