@@ -2,7 +2,15 @@
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXEzMGoyczFnZHlycWtkY293d3FzdXZrMXZsaWZlMG54Z3U3d2tldCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif"  />
 </div>
 
+###
 
+<div align="center">
+  <a href="www.linkedin.com/in/jason-nghiilwamo-227782222" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 
 <h1 align="center">Jason here</h1>
 
@@ -12,7 +20,7 @@
 
 ###
 
-<p align="left">Junior software developer, from <strong>where de huzz at </strong>. Code-driven, competent. Learning, building, and improving relentlessly.</p>
+<p align="left">Software developer in training, from where de huzz at. Code-driven (at times). Learning, building, improving.</p>
 
 ###
 
@@ -38,6 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
 ###
