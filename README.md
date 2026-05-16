@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Software developer in training, from where de huzz at. Code-driven (at times). Learning, building, improving.</p>
+<p align="left">Junior Software dev, from where de huzz at. Code-driven (at times). Learning, building, improving.</p>
 
 ###
 
